@@ -1,0 +1,14 @@
+C:\Users\sbowm\OneDrive\Desktop\repos\FactoryPatternDemoCSharp-49\FactoryPatternDemoCSharp-49\bin\Debug\net8.0\FactoryPatternDemoCSharp-49.exe
+C:\Users\sbowm\OneDrive\Desktop\repos\FactoryPatternDemoCSharp-49\FactoryPatternDemoCSharp-49\bin\Debug\net8.0\FactoryPatternDemoCSharp-49.deps.json
+C:\Users\sbowm\OneDrive\Desktop\repos\FactoryPatternDemoCSharp-49\FactoryPatternDemoCSharp-49\bin\Debug\net8.0\FactoryPatternDemoCSharp-49.runtimeconfig.json
+C:\Users\sbowm\OneDrive\Desktop\repos\FactoryPatternDemoCSharp-49\FactoryPatternDemoCSharp-49\bin\Debug\net8.0\FactoryPatternDemoCSharp-49.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\FactoryPatternDemoCSharp-49\FactoryPatternDemoCSharp-49\bin\Debug\net8.0\FactoryPatternDemoCSharp-49.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\FactoryPatternDemoCSharp-49\FactoryPatternDemoCSharp-49\obj\Debug\net8.0\FactoryPatternDemoCSharp-49.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbowm\OneDrive\Desktop\repos\FactoryPatternDemoCSharp-49\FactoryPatternDemoCSharp-49\obj\Debug\net8.0\FactoryPatternDemoCSharp-49.AssemblyInfoInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\FactoryPatternDemoCSharp-49\FactoryPatternDemoCSharp-49\obj\Debug\net8.0\FactoryPatternDemoCSharp-49.AssemblyInfo.cs
+C:\Users\sbowm\OneDrive\Desktop\repos\FactoryPatternDemoCSharp-49\FactoryPatternDemoCSharp-49\obj\Debug\net8.0\FactoryPatternDemoCSharp-49.csproj.CoreCompileInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\FactoryPatternDemoCSharp-49\FactoryPatternDemoCSharp-49\obj\Debug\net8.0\FactoryPatternDemoCSharp-49.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\FactoryPatternDemoCSharp-49\FactoryPatternDemoCSharp-49\obj\Debug\net8.0\refint\FactoryPatternDemoCSharp-49.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\FactoryPatternDemoCSharp-49\FactoryPatternDemoCSharp-49\obj\Debug\net8.0\FactoryPatternDemoCSharp-49.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\FactoryPatternDemoCSharp-49\FactoryPatternDemoCSharp-49\obj\Debug\net8.0\FactoryPatternDemoCSharp-49.genruntimeconfig.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\FactoryPatternDemoCSharp-49\FactoryPatternDemoCSharp-49\obj\Debug\net8.0\ref\FactoryPatternDemoCSharp-49.dll
